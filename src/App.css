@@ -1,0 +1,112 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  height: 10vh;
+  flex-wrap: wrap;
+}
+
+#generate_random_arr{
+   background-color: #282c34;
+   color: whitesmoke;
+   padding: 10px 24px;
+   text-align: center;
+   text-decoration: dotted;
+   display: inline-block;
+   font-size: 16px;
+   cursor: pointer;  
+   border-color: aliceblue;
+}
+
+#generate-array{
+  text-align: left;
+  float: left;
+  flex-wrap: nowrap;
+}
+
+#toolbar {
+  flex-wrap: wrap;
+}
+
+#change_arr_size{
+  float: left;
+  padding: 5px 100px;
+  background-color: #282c34;
+  color: whitesmoke;
+  cursor: pointer;
+  border-color: white;
+  flex-wrap: wrap;
+ }
+
+
+
+ .chart{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+ }
+
+ #bar {
+  flex: 1;
+  background-color: #00bfff; /* adjust as needed */
+  margin-right: 2px; /* adjust as needed */
+  align-items: center;
+  color: whitesmoke;
+ 
+}
+
+#container {
+  display: flex;
+  flex-wrap: wrap; /* This will wrap elements to the next line */
+}
+
+#sort-container{
+  align-items: center;
+}
+
+#sorting-container{
+  padding: 10px 10px;
+  cursor: pointer;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color:#282c34;
+  color: whitesmoke
+}
+
+#sort{  
+   float: left;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: nowrap;
+   flex : 2
+}
+
+.modal-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+}
