@@ -19,9 +19,11 @@ const spaceComplexityMap = new Map([
   ["Bubble Sort", "O(n)"]
 ]);
 
+
+
 const ideaMap = new Map([
-  ["Merge Sort", "Divide and conquer Algorthim technique call recursively divide and sort"],
-  ["Quick Sort", "blue"],
+  ["Merge Sort",  "Divide and conquer Algorthim technique call recursively divide and sort"],
+  ["Quick Sort",  "Divide and Conquer Algo take pivot as last element "],
   ["Bubble Sort", "Take larger element to the end by repeatedly swapping the adjacent elements"]
 ]);
 

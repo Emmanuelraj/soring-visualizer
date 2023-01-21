@@ -7,7 +7,7 @@ export default function SortingVisualizer(props) {
 
   return (
     <div id='sort-container'>
-         hello
+         
     </div>
   )
 }

@@ -7,7 +7,6 @@ export default function SortingAlgorithim() {
   
   const [sortAlgos, setSortAlgos] = useState([
     "Merge Sort",
-    "Quick Sort",
     "Bubble Sort",
   ]);
 
