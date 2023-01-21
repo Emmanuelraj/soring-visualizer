@@ -18,6 +18,7 @@ export default function ChangeArraySize() {
       </div> */}
       <ArraySizeContext.Provider value={value}>
         <div id="toolbar">
+         Change Array Size
           <input
             type="range"
             min="5"
@@ -25,6 +26,7 @@ export default function ChangeArraySize() {
             defaultValue={value}
             onChange={handleChange}
           />
+
         </div>
         <div></div>
         <div id="generate-array">
