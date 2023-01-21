@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6d29823fbef77d6db7ed",
-    "url": "/soring-visualizer/static/css/main.5d12098b.chunk.css"
+    "revision": "77e584f492a9433d06a3",
+    "url": "/soring-visualizer/static/css/main.5636418b.chunk.css"
   },
   {
-    "revision": "6d29823fbef77d6db7ed",
-    "url": "/soring-visualizer/static/js/main.6d29823f.chunk.js"
+    "revision": "77e584f492a9433d06a3",
+    "url": "/soring-visualizer/static/js/main.77e584f4.chunk.js"
   },
   {
     "revision": "4587b35573b7dda0a77d",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/soring-visualizer/static/js/runtime~main.e8a86ce5.js"
   },
   {
-    "revision": "83a94b6dfd79ea99af4ebc8577f44cda",
+    "revision": "e4b2292ffef5d147132b84a12ccfed80",
     "url": "/soring-visualizer/index.html"
   }
 ];
