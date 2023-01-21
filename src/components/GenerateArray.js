@@ -99,6 +99,7 @@ const GenerateArray = () => {
       setShowModalFlag(false);
       console.log(showModalFlag);
     } else if (selectedSortAlgo === "Quick Sort") {
+      // Divide and conquer method 
       
     }
   };
